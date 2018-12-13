@@ -4,7 +4,7 @@
 
 1. install vscode
 2. install debug for chrome, Live Server via vscode 
-3. setting([Live Server](https://infosmith.biz/blog/it/vscode-extensions-for-p5js), [debug for chrome](https://infosmith.biz/blog/it/p5js-visualstudiocode))
+3. setting(等幅フォント(Ricty??)、タブをスペースに変換、[Live Server](https://infosmith.biz/blog/it/vscode-extensions-for-p5js), [debug for chrome](https://infosmith.biz/blog/it/p5js-visualstudiocode)、そのほかプラグイン)
 
 ### optional
 1. install nodist
