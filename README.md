@@ -16,3 +16,4 @@
 - [nodist](https://github.com/nullivex/nodist/releases)
 - [Brackets](http://brackets.io/)
 - [vsCode](https://code.visualstudio.com/)
+- [Github Desktop for windows](https://desktop.github.com/)
