@@ -6,11 +6,11 @@
 1. [vscodeをインストール](https://code.visualstudio.com/)
 2. vscodeの拡張機能(debug for chrome, Live Server, zenkaku)をインストール
 3. vscodeの設定
-  - Ricty
-  - タブをスペース4つに変換、行末スペースの可視化,(Rictyフォントのインストール&設定)
-  - [Debug for chromeを使用する設定](https://infosmith.biz/blog/it/p5js-visualstudiocode)
-  - [Live Serverを使用する設定](https://infosmith.biz/blog/it/vscode-extensions-for-p5js)
-  - そのほかいいプラグインあれば
+      - Ricty
+      - タブをスペース4つに変換、行末スペースの可視化,(Rictyフォントのインストール&設定)
+      - [Debug for chromeを使用する設定](https://infosmith.biz/blog/it/p5js-visualstudiocode)
+      - [Live Serverを使用する設定](https://infosmith.biz/blog/it/vscode-extensions-for-p5js)
+      - そのほかいいプラグインあれば
 
 ### HTML基礎(idとか使いそうなとこ)
 
@@ -21,9 +21,9 @@
 ### JSでハマりやすいところ
 
 ### Three.jsの概念
+- [これ](https://ics.media/entry/14771)に沿って進めるー
 
 ### Three.js応用(なんか面白そうなの作る)
-[これ](https://ics.media/entry/14771)に沿って進めるー
 
 ### optional
 - Git使う
