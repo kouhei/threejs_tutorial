@@ -24,7 +24,7 @@
 - [これ](https://ics.media/entry/14771)に沿って進めるー
 
 ### Three.js応用(なんか面白そうなの作る)
-
+- https://ics.media/entry/18812
 ### optional
 - Git使う
 - ES6で書いてみる
