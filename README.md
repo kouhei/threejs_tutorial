@@ -21,7 +21,9 @@
 ### JSでハマりやすいところ
 
 ### Three.jsの概念
-- [これ](https://ics.media/entry/14771)に沿って進めるー
+- これに沿って進めるー
+- https://ics.media/entry/14771
+- https://ics.media/tutorial-three/index.html
 
 ### Three.js応用(なんか面白そうなの作る)
 - https://ics.media/entry/18812
