@@ -38,7 +38,7 @@ function init() {
     box.rotation.y += 0.01;
     // レンダリング
     renderer.render(scene, camera);
-  }
+  };
   // 初回実行
   tick();
 }

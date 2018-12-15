@@ -4,12 +4,24 @@
 
 ### 事前準備
 1. [vscodeをインストール](https://code.visualstudio.com/)
-2. vscodeの拡張機能(debug for chrome, Live Server, zenkaku)をインストール
+
+2. vscodeの拡張機能(debug for chrome, Live Server, zenkaku, Japanese Language Pack)をインストール
+      - threejs_tutorialをダウンロード
+      - 解凍し、そのフォルダをvscodeで開く
+      - 推奨事項の拡張機能をインストールし、vscodeを再起動
+
 3. vscodeの設定
-      - Ricty
-      - タブをスペース4つに変換、行末スペースの可視化,(Rictyフォントのインストール&設定)
-      - [Debug for chromeを使用する設定](https://infosmith.biz/blog/it/p5js-visualstudiocode)
-      - [Live Serverを使用する設定](https://infosmith.biz/blog/it/vscode-extensions-for-p5js)
+      - タブをスペース4つに変換(Editor: Tab Size),(Editor: Insert Spaces)
+      - 行末スペースの可視化(Editor: Render Whitespace)
+      - (Rictyフォントのインストール&設定)
+      - [Debug for chromeを使用する設定]
+        + デバッグを開いて、歯車をクリックして、launch.jsonを開く
+        + 以下のように変更する
+            ```json
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:5500",
+            "webRoot": "${workspaceFolder}"
+            ```
       - そのほかいいプラグインあれば
 
 ### HTML基礎(idとか使いそうなとこ)
