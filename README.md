@@ -3,7 +3,7 @@
 ## Step
 
 ### 事前準備
-1. [vscodeをインストール](https://code.visualstudio.com/)
+1. [vscode](https://code.visualstudio.com/)をインストール
 
 2. vscodeの拡張機能(debug for chrome, Live Server, zenkaku, Japanese Language Pack)をインストール
       - threejs_tutorialをダウンロード
@@ -13,6 +13,8 @@
 3. vscodeの設定
       - タブをスペース4つに変換(Editor: Tab Size),(Editor: Insert Spaces)
       - 行末スペースの可視化(Editor: Render Whitespace)
+      - 文字コードの自動判別設定("files.autoGuessEncoding": true)
+
       - (Rictyフォントのインストール&設定)
       - [Debug for chromeを使用する設定]
         + デバッグを開いて、歯車をクリックして、launch.jsonを開く
