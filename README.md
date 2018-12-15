@@ -2,9 +2,17 @@
 
 ## Step
 
-1. install vscode
-2. install (debug for chrome, Live Server, zenkaku, ...) via vscode 
-3. setting(等幅フォント(Ricty??)、タブをスペースに変換、[Live Server](https://infosmith.biz/blog/it/vscode-extensions-for-p5js), [debug for chrome](https://infosmith.biz/blog/it/p5js-visualstudiocode)、そのほかプラグイン)
+### install vscode
+[ここ](https://code.visualstudio.com/)を開くと以下の画面が出る
+
+![vscode](test/vscode.png)
+
+Download for ... のボタンをクリックするとダウンロードが始まる
+
+### VSCodeの拡張機能のインストール 
+install (debug for chrome, Live Server, zenkaku, ...) via vscode 
+### VSCodeの設定
+(等幅フォント(Ricty??)、タブをスペースに変換、[Live Server](https://infosmith.biz/blog/it/vscode-extensions-for-p5js), [debug for chrome](https://infosmith.biz/blog/it/p5js-visualstudiocode)、そのほかプラグイン)
 
 [これ](https://ics.media/entry/14771/2)に沿って進めるー
 
