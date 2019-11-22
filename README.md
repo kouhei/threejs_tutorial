@@ -6,9 +6,9 @@
 1. [vscode](https://code.visualstudio.com/)をインストール
 
 2. vscodeの拡張機能(debug for chrome, Live Server, zenkaku, Japanese Language Pack)をインストール
-      - threejs_tutorialをダウンロード
-      - 解凍し、そのフォルダをvscodeで開く
-      - 推奨事項の拡張機能をインストールし、vscodeを再起動
+      - threejs_tutorialをダウンロード
+      - 解凍し、そのフォルダをvscodeで開く
+      - 推奨事項の拡張機能をインストールし、vscodeを再起動
 
 3. vscodeの設定
       - タブをスペース4つに変換(Editor: Tab Size),(Editor: Insert Spaces)

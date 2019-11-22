@@ -20,12 +20,12 @@ function init() {
 
   // 箱を作成
   const geometry = new THREE.BoxGeometry(500, 500, 500);
-  const material = new THREE.MeshStandardMaterial({color: 0x0000FF});
+  const material = new THREE.MeshStandardMaterial({color: "#3070aF"});
   const box = new THREE.Mesh(geometry, material);
   scene.add(box);
 
   // 平行光源
-  const light = new THREE.DirectionalLight(0xFFFFFF);
+  const light = new THREE.DirectionalLight("#FFFFFF");
   light.intensity = 2; // 光の強さを倍に
   light.position.set(1, 1, 1);
   // シーンに追加
